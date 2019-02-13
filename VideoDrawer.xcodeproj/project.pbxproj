@@ -13,6 +13,7 @@
 		A5D952E92214DA8A0095EE2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5D952E82214DA8A0095EE2E /* Assets.xcassets */; };
 		A5D952EC2214DA8A0095EE2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5D952EA2214DA8A0095EE2E /* LaunchScreen.storyboard */; };
 		A5D952F72214DA8A0095EE2E /* VideoDrawerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D952F62214DA8A0095EE2E /* VideoDrawerTests.swift */; };
+		A5D953022214DAD80095EE2E /* VideoDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D953012214DAD80095EE2E /* VideoDrawer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A5D952F22214DA8A0095EE2E /* VideoDrawerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VideoDrawerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5D952F62214DA8A0095EE2E /* VideoDrawerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoDrawerTests.swift; sourceTree = "<group>"; };
 		A5D952F82214DA8A0095EE2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5D953012214DAD80095EE2E /* VideoDrawer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoDrawer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				A5D952E82214DA8A0095EE2E /* Assets.xcassets */,
 				A5D952EA2214DA8A0095EE2E /* LaunchScreen.storyboard */,
 				A5D952ED2214DA8A0095EE2E /* Info.plist */,
+				A5D953012214DAD80095EE2E /* VideoDrawer.swift */,
 			);
 			path = VideoDrawer;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A5D952E42214DA880095EE2E /* ViewController.swift in Sources */,
+				A5D953022214DAD80095EE2E /* VideoDrawer.swift in Sources */,
 				A5D952E22214DA880095EE2E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

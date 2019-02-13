@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>I am using the photo library to save the video.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Yes I am saving a video</string>
 </dict>
 </plist>

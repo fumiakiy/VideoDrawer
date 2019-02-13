@@ -1,0 +1,11 @@
+**/.*.sw*
+Pods/
+.tmp
+tmp
+TinyGlo.xcodeproj/xcuserdata/*
+TinyGlo.xcodeproj/xcuserdata/fumiaki.xcuserdatad/*
+.sw*
+codesigndoc_exports
+xcuserdata/
+.sw*
+*~
